@@ -63,6 +63,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
+</div>  
+</p>
+<h2 align="left">Detailed GitHub Stats </h2>
 
+![GitHub metrics](https://metrics.lecoq.io/Saad-Chaudhry)  
 
-<br />
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry)   -->
+<p align="center">
+<a href="https://Saad-Chaudhry.github.io/"><img alt="M Saad Akhtar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saad-Chaudhry&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> 
+</p>
