@@ -57,7 +57,10 @@
 <br/>  
 
 <div align="center">
-<a href="https://www.youtube.com/channel/UCPb-pSZUyMazEEvtU_1iQCA?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical saad" height="40" width="40" />
+<a href="https://www.youtube.com/channel/UCPb-pSZUyMazEEvtU_1iQCA?sub_confirmation=1">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCPb-pSZUyMazEEvtU_1iQCA?style=social" />
+<href="https://www.youtube.com/channel/UCPb-pSZUyMazEEvtU_1iQCA?sub_confirmation=1">
+<img src="https://img.shields.io/youtube/channel/views/UCPb-pSZUyMazEEvtU_1iQCA?style=social" /> 
 </a>
 </div>  
   
