@@ -74,3 +74,7 @@ ___
   
 ![GitHub metrics](https://metrics.lecoq.io/Saad-Chaudhry)  
 
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry)  
+
