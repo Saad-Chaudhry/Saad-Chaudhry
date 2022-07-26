@@ -1,7 +1,7 @@
 ## **Hey 👋, I'm M Saad Akhtar!**  
   
 
-### <div align="center">I'm a software engineering student and I'm currently focusing on machine learning👨‍💻</div>  
+### <div align="left">I'm a software engineering student and I'm currently focusing on machine learning👨‍💻</div>  
   
 
 <br/>  
@@ -66,7 +66,7 @@ ___
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 
-<h2 align="left">GitHub streak stats </h2>
+<h2 align="left">GitHub Streak Stats </h2>
 <p align="center">
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" />
 
