@@ -56,20 +56,21 @@
 
 <br/>  
 
+___
+<h2 align="left">My GitHub Stats</h2>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-</div>  
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 </p>
-<h2 align="left">Detailed GitHub Stats </h2>
 
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+
+<h2 align="left">GitHub streak stats </h2>
+<p align="center">
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" />
+
+  <h2 align="left">Detailed GitHub Stats </h2>
+  
 ![GitHub metrics](https://metrics.lecoq.io/Saad-Chaudhry)  
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry)   -->
-<p align="center">
-<a href="https://Saad-Chaudhry.github.io/"><img alt="M Saad Akhtar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saad-Chaudhry&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> 
-</p>
