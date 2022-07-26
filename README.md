@@ -1,5 +1,4 @@
-## **Hey 👋, I'm M Saad Akhtar!**  
-  
+## **Hi there, I'm Saad Akhtar!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">**
 
 ### <div align="left">I'm a software engineering student and I'm currently focusing on database and machine learning👨‍💻⚛️</div>  
   
@@ -26,10 +25,12 @@
 
 ### Connect with me:  
 <div align="center">
-<a href="https://github.com/Saad-Chaudhry" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/Saad-Chaudhry?tab=followers">
+<img src="https://img.shields.io/github/followers/Saad-Chaudhry?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
-<a href="https://twitter.com/Msaad7861" target="blank"><img src="https://img.shields.io/twitter/follow/Msaad7861?logo=twitter&style=for-the-badge" alt="Msaad7861" /></a>
+<a href="http://twitter.com/Msaad7861">
+<img src="https://img.shields.io/twitter/follow/Msaad7861?label=Twitter&logo=twitter&style=for-the-badge" />
+</a>
 <a href="https://www.facebook.com/saad.akhtar.182" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -42,6 +43,7 @@
 <a href="https://linkedin.com/in/saad-akhtar-72247212b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
   
 
@@ -54,18 +56,23 @@
 
 <br/>  
 
-
+<div align="center">
+<a href="https://www.youtube.com/channel/UCPb-pSZUyMazEEvtU_1iQCA?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical saad" height="40" width="40" />
+</a>
+</div>  
+  
+<br/> 
 
 ___
 <h2 align="left">My GitHub Stats</h2>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</p>
-
-<p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  
 
+  
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+</p>
   
   
   
