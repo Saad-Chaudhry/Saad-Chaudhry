@@ -12,7 +12,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="48" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="49" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="49" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="48" />  
@@ -66,6 +66,8 @@
   
 <br/> 
 
+  <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry" alt="Saad-Chaudhry" /></a> </p>  
+  
 ___
 <h2 align="left">My GitHub Stats</h2>
 
@@ -84,8 +86,6 @@ ___
 <h2 align="left">GitHub Streak Stats </h2>
 <p align="center">
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" /></p>
-
-  <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry" alt="Saad-Chaudhry" /></a> </p>
   
   
   
