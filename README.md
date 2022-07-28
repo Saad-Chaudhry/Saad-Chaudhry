@@ -19,12 +19,9 @@
 
 ### Connect with me:  
 <div align="center">
-<a href="https://github.com/Saad-Chaudhry?tab=followers">
-<img src="https://img.shields.io/github/followers/Saad-Chaudhry?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a>
-<a href="http://twitter.com/Msaad7861">
-<img src="https://img.shields.io/twitter/follow/Msaad7861?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
+<a href="https://linkedin.com/in/saad-akhtar-72247212b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 <a href="https://www.facebook.com/saad.akhtar.182" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -34,9 +31,6 @@
 <a href="https://stackoverflow.com/users/19585638/m-saad-akhtar" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/saad-akhtar-72247212b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
 
 </div>  
 
