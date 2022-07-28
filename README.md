@@ -1,11 +1,8 @@
 ## **Hi there, I'm Saad Akhtar!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">**
 
 #### <div align="left">I'm a software engineering student and I'm currently focusing on database and machine learning👨‍💻⚛️</div>  
-  
-
+ 
 <br/>  
-
-
 
 ### Languages and Tools:  
 <div align="center">  
@@ -19,8 +16,6 @@
 </div>  
 
 <br/>  
-
-
 
 ### Connect with me:  
 <div align="center">
@@ -44,14 +39,12 @@
 </a>  
 
 </div>  
-  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Saad-Chaudhry&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
@@ -62,35 +55,24 @@
 <img src="https://img.shields.io/youtube/channel/views/UCPb-pSZUyMazEEvtU_1iQCA?style=social" /> 
 </a>
 </div>  
-  
+
 <br/> 
 
-  <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry" alt="Saad-Chaudhry" /></a> </p>  
-  
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry" alt="Saad-Chaudhry" /></a> </p>  
+
 ___
 <h2 align="left">My GitHub Stats</h2>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 
-  
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 </p>
-  
-  
-  
-  
-  
+
 <h2 align="left">GitHub Streak Stats </h2>
 <p align="center">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" /></p>
-  
-  
-  
-  
-  
-  
-  <h2 align="left">Detailed GitHub Stats </h2>
-  
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" /></p>
+
+<h2 align="left">Detailed GitHub Stats </h2>
+
 ![GitHub metrics](https://metrics.lecoq.io/Saad-Chaudhry)  
