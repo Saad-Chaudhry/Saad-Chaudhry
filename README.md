@@ -50,6 +50,13 @@
 </a>
 </div>  
 
+<!-- ## Find me around the web : <a href="https://github.com/sponsors/Saad-Chaudhry"><img align="left" border="50%" width="135" height="135" class="avatar circle mr-3" src="https://www.pngitem.com/pimgs/m/219-2196576_streamlabs-paypal-donation-page-paypal-donate-button-hd.png"></a>
+
+- My website <a href="https://bio.link/saadchaudhry">SAAD</a> 📹
+- Write in <a href="https://t.me/Saad_Chaudhry">Telegram</a> ✍🏻
+- Sharing updates on <a href="https://www.linkedin.com/in/saad-akhtar-72247212b/">LinkedIn</a> 💼
+<hr> -->
+ 
 <br/> 
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry" alt="Saad-Chaudhry" /></a> </p>  
