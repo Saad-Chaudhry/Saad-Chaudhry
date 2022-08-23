@@ -65,9 +65,9 @@ ___
 <h2 align="left">My GitHub Stats</h2>
 
 <p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Saad-Chaudhry" />
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+<img width="395px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Chaudhry&&layout=compact" />
 </p>
 
 <h2 align="left">GitHub Streak Stats </h2>
