@@ -1,6 +1,6 @@
 ## **Hi there, I'm Saad Akhtar!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">**
 
-#### <div align="left">I'm a software engineering student and I'm currently focusing on database and machine learning👨‍💻⚛️</div>  
+#### <div align="left">I'm undergrad software engineering student and I'm currently focusing on database and machine learning👨‍💻⚛️</div>  
  
 <br/>  
 
