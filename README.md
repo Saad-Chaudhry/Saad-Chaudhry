@@ -28,7 +28,7 @@
 <a href="https://instagram.com/c.h_saad" target="_blank">
 <img  src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/19585638/m-saad-akhtar" target="_blank">
+<a href="https://leetcode.com/saadakhtar30/" target="_blank">
 <img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=leetcode style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/19585638/m-saad-akhtar" target="_blank">
