@@ -58,5 +58,8 @@ ___
 <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-Chaudhry&show_icons=true&theme=tokyoday&hide_border=true&bg_color=E8FFED" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saad-Chaudhry&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
